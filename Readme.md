@@ -1,8 +1,8 @@
 # Face Detection (opencv)
 
-### It is used to detect human face by using ML object deduction algorithm (HAAR algorithm)
+### It is used to detect human face by using ML object detection algorithm (HAAR algorithm)
 
-It is efficient, simple and most commonly used algorithm for face deduction in industry.
+It is efficient, simple and most commonly used algorithm for face detection in industry.
 
 
 ### Requirements :-
